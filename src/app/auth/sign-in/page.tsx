@@ -11,8 +11,8 @@ export default function SignInPage() {
 	return (
 		<AuthLayout
 			pageName="Iniciar sesión"
-			title="¡Bienvenido mi king!"
-			subtitle="Inicia sesión en tu cuenta masna"
+			title="¡Bienvenido!"
+			subtitle="Inicia sesión en tu cuenta"
 			description="Por favor, inicia sesión en tu cuenta completando los campos necesarios a continuación"
 		>
 			<Signin />

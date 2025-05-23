@@ -33,13 +33,13 @@ export default function AuthLayout({
 					<div className="hidden w-full p-7.5 xl:block xl:w-1/2">
 						<div className="custom-gradient-1 overflow-hidden rounded-2xl px-12.5 pt-12.5 dark:!bg-dark-2 dark:bg-none">
 							<Link className="mb-10 inline-block" href="/">
-								<div className="relative flex h-10 max-w-[10.847rem] items-center gap-2 text-black dark:text-white">
+								<div className="relative flex h-10 max-w-[180px] items-center gap-2 text-black dark:text-white">
 									<AlmeydaLogo
 										size={40}
 										fill="currentColor"
 									/>
 									<h2 className="text-[32px] font-bold">
-										Almeyda
+										Maderera
 									</h2>
 								</div>
 							</Link>
